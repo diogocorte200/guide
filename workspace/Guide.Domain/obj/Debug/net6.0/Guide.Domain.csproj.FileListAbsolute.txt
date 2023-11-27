@@ -1,0 +1,47 @@
+C:\wor\Demurrage.Domain\bin\Debug\net6.0\Guide.Domain.deps.json
+C:\wor\Demurrage.Domain\bin\Debug\net6.0\Guide.Domain.dll
+C:\wor\Demurrage.Domain\bin\Debug\net6.0\Guide.Domain.pdb
+C:\wor\Demurrage.Domain\obj\Debug\net6.0\Guide.Domain.csproj.AssemblyReference.cache
+C:\wor\Demurrage.Domain\obj\Debug\net6.0\Guide.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\wor\Demurrage.Domain\obj\Debug\net6.0\Guide.Domain.AssemblyInfoInputs.cache
+C:\wor\Demurrage.Domain\obj\Debug\net6.0\Guide.Domain.AssemblyInfo.cs
+C:\wor\Demurrage.Domain\obj\Debug\net6.0\Guide.Domain.csproj.CoreCompileInputs.cache
+C:\wor\Demurrage.Domain\obj\Debug\net6.0\Guide.Domain.dll
+C:\wor\Demurrage.Domain\obj\Debug\net6.0\refint\Guide.Domain.dll
+C:\wor\Demurrage.Domain\obj\Debug\net6.0\Guide.Domain.pdb
+C:\wor\Demurrage.Domain\obj\Debug\net6.0\ref\Guide.Domain.dll
+C:\wor\Guide.Domain\bin\Debug\net6.0\Guide.Domain.deps.json
+C:\wor\Guide.Domain\bin\Debug\net6.0\Guide.Domain.dll
+C:\wor\Guide.Domain\bin\Debug\net6.0\Guide.Domain.pdb
+C:\wor\Guide.Domain\obj\Debug\net6.0\Guide.Domain.csproj.AssemblyReference.cache
+C:\wor\Guide.Domain\obj\Debug\net6.0\Guide.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\wor\Guide.Domain\obj\Debug\net6.0\Guide.Domain.AssemblyInfoInputs.cache
+C:\wor\Guide.Domain\obj\Debug\net6.0\Guide.Domain.AssemblyInfo.cs
+C:\wor\Guide.Domain\obj\Debug\net6.0\Guide.Domain.csproj.CoreCompileInputs.cache
+C:\wor\Guide.Domain\obj\Debug\net6.0\Guide.Domain.dll
+C:\wor\Guide.Domain\obj\Debug\net6.0\refint\Guide.Domain.dll
+C:\wor\Guide.Domain\obj\Debug\net6.0\Guide.Domain.pdb
+C:\wor\Guide.Domain\obj\Debug\net6.0\ref\Guide.Domain.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\wor\wor\Guide.Domain\bin\Debug\net6.0\Guide.Domain.deps.json
+C:\Users\rafae\OneDrive\Área de Trabalho\wor\wor\Guide.Domain\bin\Debug\net6.0\Guide.Domain.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\wor\wor\Guide.Domain\bin\Debug\net6.0\Guide.Domain.pdb
+C:\Users\rafae\OneDrive\Área de Trabalho\wor\wor\Guide.Domain\obj\Debug\net6.0\Guide.Domain.csproj.AssemblyReference.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\wor\wor\Guide.Domain\obj\Debug\net6.0\Guide.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\OneDrive\Área de Trabalho\wor\wor\Guide.Domain\obj\Debug\net6.0\Guide.Domain.AssemblyInfoInputs.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\wor\wor\Guide.Domain\obj\Debug\net6.0\Guide.Domain.AssemblyInfo.cs
+C:\Users\rafae\OneDrive\Área de Trabalho\wor\wor\Guide.Domain\obj\Debug\net6.0\Guide.Domain.csproj.CoreCompileInputs.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\wor\wor\Guide.Domain\obj\Debug\net6.0\Guide.Domain.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\wor\wor\Guide.Domain\obj\Debug\net6.0\refint\Guide.Domain.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\wor\wor\Guide.Domain\obj\Debug\net6.0\Guide.Domain.pdb
+C:\Users\rafae\OneDrive\Área de Trabalho\wor\wor\Guide.Domain\obj\Debug\net6.0\ref\Guide.Domain.dll
+C:\guide\wor\Guide.Domain\bin\Debug\net6.0\Guide.Domain.deps.json
+C:\guide\wor\Guide.Domain\bin\Debug\net6.0\Guide.Domain.dll
+C:\guide\wor\Guide.Domain\bin\Debug\net6.0\Guide.Domain.pdb
+C:\guide\wor\Guide.Domain\obj\Debug\net6.0\Guide.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\guide\wor\Guide.Domain\obj\Debug\net6.0\Guide.Domain.AssemblyInfoInputs.cache
+C:\guide\wor\Guide.Domain\obj\Debug\net6.0\Guide.Domain.AssemblyInfo.cs
+C:\guide\wor\Guide.Domain\obj\Debug\net6.0\Guide.Domain.csproj.CoreCompileInputs.cache
+C:\guide\wor\Guide.Domain\obj\Debug\net6.0\Guide.Domain.dll
+C:\guide\wor\Guide.Domain\obj\Debug\net6.0\refint\Guide.Domain.dll
+C:\guide\wor\Guide.Domain\obj\Debug\net6.0\Guide.Domain.pdb
+C:\guide\wor\Guide.Domain\obj\Debug\net6.0\ref\Guide.Domain.dll

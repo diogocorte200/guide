@@ -1,0 +1,68 @@
+C:\wor\Demurrage.Infra\bin\Debug\net6.0\Guide.Infra.deps.json
+C:\wor\Demurrage.Infra\bin\Debug\net6.0\Guide.Infra.runtimeconfig.json
+C:\wor\Demurrage.Infra\bin\Debug\net6.0\Guide.Infra.dll
+C:\wor\Demurrage.Infra\bin\Debug\net6.0\Guide.Infra.pdb
+C:\wor\Demurrage.Infra\bin\Debug\net6.0\Guide.Domain.dll
+C:\wor\Demurrage.Infra\bin\Debug\net6.0\Guide.Domain.pdb
+C:\wor\Demurrage.Infra\obj\Debug\net6.0\Guide.Infra.csproj.AssemblyReference.cache
+C:\wor\Demurrage.Infra\obj\Debug\net6.0\Guide.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\wor\Demurrage.Infra\obj\Debug\net6.0\Guide.Infra.AssemblyInfoInputs.cache
+C:\wor\Demurrage.Infra\obj\Debug\net6.0\Guide.Infra.AssemblyInfo.cs
+C:\wor\Demurrage.Infra\obj\Debug\net6.0\Guide.Infra.csproj.CoreCompileInputs.cache
+C:\wor\Demurrage.Infra\obj\Debug\net6.0\Guide.Infra.csproj.CopyComplete
+C:\wor\Demurrage.Infra\obj\Debug\net6.0\Guide.Infra.dll
+C:\wor\Demurrage.Infra\obj\Debug\net6.0\refint\Guide.Infra.dll
+C:\wor\Demurrage.Infra\obj\Debug\net6.0\Guide.Infra.pdb
+C:\wor\Demurrage.Infra\obj\Debug\net6.0\Guide.Infra.genruntimeconfig.cache
+C:\wor\Demurrage.Infra\obj\Debug\net6.0\ref\Guide.Infra.dll
+C:\wor\Guide.Infra\obj\Debug\net6.0\Guide.Infra.csproj.AssemblyReference.cache
+C:\wor\Guide.Infra\obj\Debug\net6.0\Guide.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\wor\Guide.Infra\obj\Debug\net6.0\Guide.Infra.AssemblyInfoInputs.cache
+C:\wor\Guide.Infra\obj\Debug\net6.0\Guide.Infra.AssemblyInfo.cs
+C:\wor\Guide.Infra\obj\Debug\net6.0\Guide.Infra.csproj.CoreCompileInputs.cache
+C:\wor\Guide.Infra\obj\Debug\net6.0\Guide.Infra.dll
+C:\wor\Guide.Infra\obj\Debug\net6.0\refint\Guide.Infra.dll
+C:\wor\Guide.Infra\obj\Debug\net6.0\Guide.Infra.pdb
+C:\wor\Guide.Infra\bin\Debug\net6.0\Guide.Infra.deps.json
+C:\wor\Guide.Infra\bin\Debug\net6.0\Guide.Infra.runtimeconfig.json
+C:\wor\Guide.Infra\bin\Debug\net6.0\Guide.Infra.dll
+C:\wor\Guide.Infra\bin\Debug\net6.0\Guide.Infra.pdb
+C:\wor\Guide.Infra\bin\Debug\net6.0\Guide.Domain.dll
+C:\wor\Guide.Infra\bin\Debug\net6.0\Guide.Domain.pdb
+C:\wor\Guide.Infra\obj\Debug\net6.0\Guide.Infra.csproj.CopyComplete
+C:\wor\Guide.Infra\obj\Debug\net6.0\Guide.Infra.genruntimeconfig.cache
+C:\wor\Guide.Infra\obj\Debug\net6.0\ref\Guide.Infra.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\wor\wor\Guide.Infra\bin\Debug\net6.0\Guide.Infra.deps.json
+C:\Users\rafae\OneDrive\Área de Trabalho\wor\wor\Guide.Infra\bin\Debug\net6.0\Guide.Infra.runtimeconfig.json
+C:\Users\rafae\OneDrive\Área de Trabalho\wor\wor\Guide.Infra\bin\Debug\net6.0\Guide.Infra.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\wor\wor\Guide.Infra\bin\Debug\net6.0\Guide.Infra.pdb
+C:\Users\rafae\OneDrive\Área de Trabalho\wor\wor\Guide.Infra\bin\Debug\net6.0\Guide.Domain.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\wor\wor\Guide.Infra\bin\Debug\net6.0\Guide.Domain.pdb
+C:\Users\rafae\OneDrive\Área de Trabalho\wor\wor\Guide.Infra\obj\Debug\net6.0\Guide.Infra.csproj.AssemblyReference.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\wor\wor\Guide.Infra\obj\Debug\net6.0\Guide.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\OneDrive\Área de Trabalho\wor\wor\Guide.Infra\obj\Debug\net6.0\Guide.Infra.AssemblyInfoInputs.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\wor\wor\Guide.Infra\obj\Debug\net6.0\Guide.Infra.AssemblyInfo.cs
+C:\Users\rafae\OneDrive\Área de Trabalho\wor\wor\Guide.Infra\obj\Debug\net6.0\Guide.Infra.csproj.CoreCompileInputs.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\wor\wor\Guide.Infra\obj\Debug\net6.0\Guide.Infra.csproj.CopyComplete
+C:\Users\rafae\OneDrive\Área de Trabalho\wor\wor\Guide.Infra\obj\Debug\net6.0\Guide.Infra.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\wor\wor\Guide.Infra\obj\Debug\net6.0\refint\Guide.Infra.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\wor\wor\Guide.Infra\obj\Debug\net6.0\Guide.Infra.pdb
+C:\Users\rafae\OneDrive\Área de Trabalho\wor\wor\Guide.Infra\obj\Debug\net6.0\Guide.Infra.genruntimeconfig.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\wor\wor\Guide.Infra\obj\Debug\net6.0\ref\Guide.Infra.dll
+C:\guide\wor\Guide.Infra\bin\Debug\net6.0\Guide.Infra.deps.json
+C:\guide\wor\Guide.Infra\bin\Debug\net6.0\Guide.Infra.runtimeconfig.json
+C:\guide\wor\Guide.Infra\bin\Debug\net6.0\Guide.Infra.dll
+C:\guide\wor\Guide.Infra\bin\Debug\net6.0\Guide.Infra.pdb
+C:\guide\wor\Guide.Infra\bin\Debug\net6.0\Guide.Domain.dll
+C:\guide\wor\Guide.Infra\bin\Debug\net6.0\Guide.Domain.pdb
+C:\guide\wor\Guide.Infra\obj\Debug\net6.0\Guide.Infra.csproj.AssemblyReference.cache
+C:\guide\wor\Guide.Infra\obj\Debug\net6.0\Guide.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\guide\wor\Guide.Infra\obj\Debug\net6.0\Guide.Infra.AssemblyInfoInputs.cache
+C:\guide\wor\Guide.Infra\obj\Debug\net6.0\Guide.Infra.AssemblyInfo.cs
+C:\guide\wor\Guide.Infra\obj\Debug\net6.0\Guide.Infra.csproj.CoreCompileInputs.cache
+C:\guide\wor\Guide.Infra\obj\Debug\net6.0\Guide.Infra.csproj.CopyComplete
+C:\guide\wor\Guide.Infra\obj\Debug\net6.0\Guide.Infra.dll
+C:\guide\wor\Guide.Infra\obj\Debug\net6.0\refint\Guide.Infra.dll
+C:\guide\wor\Guide.Infra\obj\Debug\net6.0\Guide.Infra.pdb
+C:\guide\wor\Guide.Infra\obj\Debug\net6.0\Guide.Infra.genruntimeconfig.cache
+C:\guide\wor\Guide.Infra\obj\Debug\net6.0\ref\Guide.Infra.dll

@@ -1,0 +1,367 @@
+C:\wor\Demurrage.Api\bin\Debug\net6.0\appsettings.Development.json
+C:\wor\Demurrage.Api\bin\Debug\net6.0\appsettings.json
+C:\wor\Demurrage.Api\bin\Debug\net6.0\Guide.Api.exe
+C:\wor\Demurrage.Api\bin\Debug\net6.0\Guide.Api.deps.json
+C:\wor\Demurrage.Api\bin\Debug\net6.0\Guide.Api.runtimeconfig.json
+C:\wor\Demurrage.Api\bin\Debug\net6.0\Guide.Api.dll
+C:\wor\Demurrage.Api\bin\Debug\net6.0\Guide.Api.pdb
+C:\wor\Demurrage.Api\bin\Debug\net6.0\Azure.Core.dll
+C:\wor\Demurrage.Api\bin\Debug\net6.0\Azure.Identity.dll
+C:\wor\Demurrage.Api\bin\Debug\net6.0\Humanizer.dll
+C:\wor\Demurrage.Api\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\wor\Demurrage.Api\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\wor\Demurrage.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\wor\Demurrage.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\wor\Demurrage.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\wor\Demurrage.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\wor\Demurrage.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\wor\Demurrage.Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\wor\Demurrage.Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\wor\Demurrage.Api\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\wor\Demurrage.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\wor\Demurrage.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\wor\Demurrage.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\wor\Demurrage.Api\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\wor\Demurrage.Api\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\wor\Demurrage.Api\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\wor\Demurrage.Api\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\wor\Demurrage.Api\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\wor\Demurrage.Api\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\wor\Demurrage.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\wor\Demurrage.Api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\wor\Demurrage.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\wor\Demurrage.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\wor\Demurrage.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\wor\Demurrage.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\wor\Demurrage.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\wor\Demurrage.Api\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\wor\Demurrage.Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\wor\Demurrage.Api\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\wor\Demurrage.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\wor\Demurrage.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\wor\Demurrage.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\wor\Demurrage.Api\bin\Debug\net6.0\System.CodeDom.dll
+C:\wor\Demurrage.Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\wor\Demurrage.Api\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\wor\Demurrage.Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\wor\Demurrage.Api\bin\Debug\net6.0\System.Memory.Data.dll
+C:\wor\Demurrage.Api\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\wor\Demurrage.Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\wor\Demurrage.Api\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\wor\Demurrage.Api\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\wor\Demurrage.Api\bin\Debug\net6.0\System.Text.Json.dll
+C:\wor\Demurrage.Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\wor\Demurrage.Api\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\wor\Demurrage.Api\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\wor\Demurrage.Api\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\wor\Demurrage.Api\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\wor\Demurrage.Api\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\wor\Demurrage.Api\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\wor\Demurrage.Api\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\wor\Demurrage.Api\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\wor\Demurrage.Api\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\wor\Demurrage.Api\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\wor\Demurrage.Api\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\wor\Demurrage.Api\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\wor\Demurrage.Api\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\wor\Demurrage.Api\bin\Debug\net6.0\Guide.Domain.dll
+C:\wor\Demurrage.Api\bin\Debug\net6.0\Guide.Infra.dll
+C:\wor\Demurrage.Api\bin\Debug\net6.0\Guide.Domain.pdb
+C:\wor\Demurrage.Api\bin\Debug\net6.0\Guide.Infra.pdb
+C:\wor\Demurrage.Api\obj\Debug\net6.0\Guide.Api.csproj.AssemblyReference.cache
+C:\wor\Demurrage.Api\obj\Debug\net6.0\Guide.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\wor\Demurrage.Api\obj\Debug\net6.0\Guide.Api.AssemblyInfoInputs.cache
+C:\wor\Demurrage.Api\obj\Debug\net6.0\Guide.Api.AssemblyInfo.cs
+C:\wor\Demurrage.Api\obj\Debug\net6.0\Guide.Api.csproj.CoreCompileInputs.cache
+C:\wor\Demurrage.Api\obj\Debug\net6.0\Guide.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\wor\Demurrage.Api\obj\Debug\net6.0\Guide.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\wor\Demurrage.Api\obj\Debug\net6.0\staticwebassets\msbuild.Guide.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\wor\Demurrage.Api\obj\Debug\net6.0\staticwebassets\msbuild.build.Guide.Api.props
+C:\wor\Demurrage.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Guide.Api.props
+C:\wor\Demurrage.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Guide.Api.props
+C:\wor\Demurrage.Api\obj\Debug\net6.0\staticwebassets.pack.json
+C:\wor\Demurrage.Api\obj\Debug\net6.0\staticwebassets.build.json
+C:\wor\Demurrage.Api\obj\Debug\net6.0\staticwebassets.development.json
+C:\wor\Demurrage.Api\obj\Debug\net6.0\scopedcss\bundle\Guide.Api.styles.css
+C:\wor\Demurrage.Api\obj\Debug\net6.0\Guide.Api.csproj.CopyComplete
+C:\wor\Demurrage.Api\obj\Debug\net6.0\Guide.Api.dll
+C:\wor\Demurrage.Api\obj\Debug\net6.0\refint\Guide.Api.dll
+C:\wor\Demurrage.Api\obj\Debug\net6.0\Guide.Api.pdb
+C:\wor\Demurrage.Api\obj\Debug\net6.0\Guide.Api.genruntimeconfig.cache
+C:\wor\Demurrage.Api\obj\Debug\net6.0\ref\Guide.Api.dll
+C:\wor\Guide.Api\obj\Debug\net6.0\Guide.Api.csproj.AssemblyReference.cache
+C:\wor\Guide.Api\obj\Debug\net6.0\Guide.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\wor\Guide.Api\obj\Debug\net6.0\Guide.Api.AssemblyInfoInputs.cache
+C:\wor\Guide.Api\obj\Debug\net6.0\Guide.Api.AssemblyInfo.cs
+C:\wor\Guide.Api\obj\Debug\net6.0\Guide.Api.csproj.CoreCompileInputs.cache
+C:\wor\Guide.Api\obj\Debug\net6.0\Guide.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\wor\Guide.Api\obj\Debug\net6.0\Guide.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\wor\Guide.Api\obj\Debug\net6.0\Guide.Api.dll
+C:\wor\Guide.Api\obj\Debug\net6.0\refint\Guide.Api.dll
+C:\wor\Guide.Api\obj\Debug\net6.0\Guide.Api.pdb
+C:\wor\Guide.Api\bin\Debug\net6.0\appsettings.Development.json
+C:\wor\Guide.Api\bin\Debug\net6.0\appsettings.json
+C:\wor\Guide.Api\bin\Debug\net6.0\Guide.Api.exe
+C:\wor\Guide.Api\bin\Debug\net6.0\Guide.Api.deps.json
+C:\wor\Guide.Api\bin\Debug\net6.0\Guide.Api.runtimeconfig.json
+C:\wor\Guide.Api\bin\Debug\net6.0\Guide.Api.dll
+C:\wor\Guide.Api\bin\Debug\net6.0\Guide.Api.pdb
+C:\wor\Guide.Api\bin\Debug\net6.0\Azure.Core.dll
+C:\wor\Guide.Api\bin\Debug\net6.0\Azure.Identity.dll
+C:\wor\Guide.Api\bin\Debug\net6.0\Humanizer.dll
+C:\wor\Guide.Api\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\wor\Guide.Api\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\wor\Guide.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\wor\Guide.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\wor\Guide.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\wor\Guide.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\wor\Guide.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\wor\Guide.Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\wor\Guide.Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\wor\Guide.Api\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\wor\Guide.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\wor\Guide.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\wor\Guide.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\wor\Guide.Api\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\wor\Guide.Api\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\wor\Guide.Api\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\wor\Guide.Api\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\wor\Guide.Api\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\wor\Guide.Api\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\wor\Guide.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\wor\Guide.Api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\wor\Guide.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\wor\Guide.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\wor\Guide.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\wor\Guide.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\wor\Guide.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\wor\Guide.Api\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\wor\Guide.Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\wor\Guide.Api\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\wor\Guide.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\wor\Guide.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\wor\Guide.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\wor\Guide.Api\bin\Debug\net6.0\System.CodeDom.dll
+C:\wor\Guide.Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\wor\Guide.Api\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\wor\Guide.Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\wor\Guide.Api\bin\Debug\net6.0\System.Memory.Data.dll
+C:\wor\Guide.Api\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\wor\Guide.Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\wor\Guide.Api\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\wor\Guide.Api\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\wor\Guide.Api\bin\Debug\net6.0\System.Text.Json.dll
+C:\wor\Guide.Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\wor\Guide.Api\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\wor\Guide.Api\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\wor\Guide.Api\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\wor\Guide.Api\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\wor\Guide.Api\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\wor\Guide.Api\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\wor\Guide.Api\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\wor\Guide.Api\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\wor\Guide.Api\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\wor\Guide.Api\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\wor\Guide.Api\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\wor\Guide.Api\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\wor\Guide.Api\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\wor\Guide.Api\bin\Debug\net6.0\Guide.Domain.dll
+C:\wor\Guide.Api\bin\Debug\net6.0\Guide.Infra.dll
+C:\wor\Guide.Api\bin\Debug\net6.0\Guide.Domain.pdb
+C:\wor\Guide.Api\bin\Debug\net6.0\Guide.Infra.pdb
+C:\wor\Guide.Api\obj\Debug\net6.0\staticwebassets\msbuild.Guide.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\wor\Guide.Api\obj\Debug\net6.0\staticwebassets\msbuild.build.Guide.Api.props
+C:\wor\Guide.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Guide.Api.props
+C:\wor\Guide.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Guide.Api.props
+C:\wor\Guide.Api\obj\Debug\net6.0\staticwebassets.pack.json
+C:\wor\Guide.Api\obj\Debug\net6.0\staticwebassets.build.json
+C:\wor\Guide.Api\obj\Debug\net6.0\staticwebassets.development.json
+C:\wor\Guide.Api\obj\Debug\net6.0\scopedcss\bundle\Guide.Api.styles.css
+C:\wor\Guide.Api\obj\Debug\net6.0\Guide.Api.csproj.CopyComplete
+C:\wor\Guide.Api\obj\Debug\net6.0\Guide.Api.genruntimeconfig.cache
+C:\wor\Guide.Api\obj\Debug\net6.0\ref\Guide.Api.dll
+C:\wor\Guide.Api\bin\Debug\net6.0\Microsoft.Extensions.Http.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\wor\wor\Guide.Api\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\rafae\OneDrive\Área de Trabalho\wor\wor\Guide.Api\bin\Debug\net6.0\appsettings.json
+C:\Users\rafae\OneDrive\Área de Trabalho\wor\wor\Guide.Api\bin\Debug\net6.0\Guide.Api.exe
+C:\Users\rafae\OneDrive\Área de Trabalho\wor\wor\Guide.Api\bin\Debug\net6.0\Guide.Api.deps.json
+C:\Users\rafae\OneDrive\Área de Trabalho\wor\wor\Guide.Api\bin\Debug\net6.0\Guide.Api.runtimeconfig.json
+C:\Users\rafae\OneDrive\Área de Trabalho\wor\wor\Guide.Api\bin\Debug\net6.0\Guide.Api.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\wor\wor\Guide.Api\bin\Debug\net6.0\Guide.Api.pdb
+C:\Users\rafae\OneDrive\Área de Trabalho\wor\wor\Guide.Api\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\wor\wor\Guide.Api\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\wor\wor\Guide.Api\bin\Debug\net6.0\Humanizer.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\wor\wor\Guide.Api\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\wor\wor\Guide.Api\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\wor\wor\Guide.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\wor\wor\Guide.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\wor\wor\Guide.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\wor\wor\Guide.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\wor\wor\Guide.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\wor\wor\Guide.Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\wor\wor\Guide.Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\wor\wor\Guide.Api\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\wor\wor\Guide.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\wor\wor\Guide.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\wor\wor\Guide.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\wor\wor\Guide.Api\bin\Debug\net6.0\Microsoft.Extensions.Http.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\wor\wor\Guide.Api\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\wor\wor\Guide.Api\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\wor\wor\Guide.Api\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\wor\wor\Guide.Api\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\wor\wor\Guide.Api\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\wor\wor\Guide.Api\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\wor\wor\Guide.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\wor\wor\Guide.Api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\wor\wor\Guide.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\wor\wor\Guide.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\wor\wor\Guide.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\wor\wor\Guide.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\wor\wor\Guide.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\wor\wor\Guide.Api\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\wor\wor\Guide.Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\wor\wor\Guide.Api\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\wor\wor\Guide.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\wor\wor\Guide.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\wor\wor\Guide.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\wor\wor\Guide.Api\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\wor\wor\Guide.Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\wor\wor\Guide.Api\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\wor\wor\Guide.Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\wor\wor\Guide.Api\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\wor\wor\Guide.Api\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\wor\wor\Guide.Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\wor\wor\Guide.Api\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\wor\wor\Guide.Api\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\wor\wor\Guide.Api\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\wor\wor\Guide.Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\wor\wor\Guide.Api\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\wor\wor\Guide.Api\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\wor\wor\Guide.Api\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\wor\wor\Guide.Api\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\wor\wor\Guide.Api\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\wor\wor\Guide.Api\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\wor\wor\Guide.Api\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\wor\wor\Guide.Api\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\wor\wor\Guide.Api\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\wor\wor\Guide.Api\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\wor\wor\Guide.Api\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\wor\wor\Guide.Api\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\wor\wor\Guide.Api\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\wor\wor\Guide.Api\bin\Debug\net6.0\Guide.Domain.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\wor\wor\Guide.Api\bin\Debug\net6.0\Guide.Infra.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\wor\wor\Guide.Api\bin\Debug\net6.0\Guide.Domain.pdb
+C:\Users\rafae\OneDrive\Área de Trabalho\wor\wor\Guide.Api\bin\Debug\net6.0\Guide.Infra.pdb
+C:\Users\rafae\OneDrive\Área de Trabalho\wor\wor\Guide.Api\obj\Debug\net6.0\Guide.Api.csproj.AssemblyReference.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\wor\wor\Guide.Api\obj\Debug\net6.0\Guide.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\OneDrive\Área de Trabalho\wor\wor\Guide.Api\obj\Debug\net6.0\Guide.Api.AssemblyInfoInputs.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\wor\wor\Guide.Api\obj\Debug\net6.0\Guide.Api.AssemblyInfo.cs
+C:\Users\rafae\OneDrive\Área de Trabalho\wor\wor\Guide.Api\obj\Debug\net6.0\Guide.Api.csproj.CoreCompileInputs.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\wor\wor\Guide.Api\obj\Debug\net6.0\Guide.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\rafae\OneDrive\Área de Trabalho\wor\wor\Guide.Api\obj\Debug\net6.0\Guide.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\wor\wor\Guide.Api\obj\Debug\net6.0\staticwebassets\msbuild.Guide.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\rafae\OneDrive\Área de Trabalho\wor\wor\Guide.Api\obj\Debug\net6.0\staticwebassets\msbuild.build.Guide.Api.props
+C:\Users\rafae\OneDrive\Área de Trabalho\wor\wor\Guide.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Guide.Api.props
+C:\Users\rafae\OneDrive\Área de Trabalho\wor\wor\Guide.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Guide.Api.props
+C:\Users\rafae\OneDrive\Área de Trabalho\wor\wor\Guide.Api\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\rafae\OneDrive\Área de Trabalho\wor\wor\Guide.Api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\rafae\OneDrive\Área de Trabalho\wor\wor\Guide.Api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\rafae\OneDrive\Área de Trabalho\wor\wor\Guide.Api\obj\Debug\net6.0\scopedcss\bundle\Guide.Api.styles.css
+C:\Users\rafae\OneDrive\Área de Trabalho\wor\wor\Guide.Api\obj\Debug\net6.0\Guide.Api.csproj.CopyComplete
+C:\Users\rafae\OneDrive\Área de Trabalho\wor\wor\Guide.Api\obj\Debug\net6.0\Guide.Api.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\wor\wor\Guide.Api\obj\Debug\net6.0\refint\Guide.Api.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\wor\wor\Guide.Api\obj\Debug\net6.0\Guide.Api.pdb
+C:\Users\rafae\OneDrive\Área de Trabalho\wor\wor\Guide.Api\obj\Debug\net6.0\Guide.Api.genruntimeconfig.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\wor\wor\Guide.Api\obj\Debug\net6.0\ref\Guide.Api.dll
+C:\guide\wor\Guide.Api\bin\Debug\net6.0\appsettings.Development.json
+C:\guide\wor\Guide.Api\bin\Debug\net6.0\appsettings.json
+C:\guide\wor\Guide.Api\bin\Debug\net6.0\Guide.Api.exe
+C:\guide\wor\Guide.Api\bin\Debug\net6.0\Guide.Api.deps.json
+C:\guide\wor\Guide.Api\bin\Debug\net6.0\Guide.Api.runtimeconfig.json
+C:\guide\wor\Guide.Api\bin\Debug\net6.0\Guide.Api.dll
+C:\guide\wor\Guide.Api\bin\Debug\net6.0\Guide.Api.pdb
+C:\guide\wor\Guide.Api\bin\Debug\net6.0\Azure.Core.dll
+C:\guide\wor\Guide.Api\bin\Debug\net6.0\Azure.Identity.dll
+C:\guide\wor\Guide.Api\bin\Debug\net6.0\Humanizer.dll
+C:\guide\wor\Guide.Api\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\guide\wor\Guide.Api\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\guide\wor\Guide.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\guide\wor\Guide.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\guide\wor\Guide.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\guide\wor\Guide.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\guide\wor\Guide.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\guide\wor\Guide.Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\guide\wor\Guide.Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\guide\wor\Guide.Api\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\guide\wor\Guide.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\guide\wor\Guide.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\guide\wor\Guide.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\guide\wor\Guide.Api\bin\Debug\net6.0\Microsoft.Extensions.Http.dll
+C:\guide\wor\Guide.Api\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\guide\wor\Guide.Api\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\guide\wor\Guide.Api\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\guide\wor\Guide.Api\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\guide\wor\Guide.Api\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\guide\wor\Guide.Api\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\guide\wor\Guide.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\guide\wor\Guide.Api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\guide\wor\Guide.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\guide\wor\Guide.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\guide\wor\Guide.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\guide\wor\Guide.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\guide\wor\Guide.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\guide\wor\Guide.Api\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\guide\wor\Guide.Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\guide\wor\Guide.Api\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\guide\wor\Guide.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\guide\wor\Guide.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\guide\wor\Guide.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\guide\wor\Guide.Api\bin\Debug\net6.0\System.CodeDom.dll
+C:\guide\wor\Guide.Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\guide\wor\Guide.Api\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\guide\wor\Guide.Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\guide\wor\Guide.Api\bin\Debug\net6.0\System.Memory.Data.dll
+C:\guide\wor\Guide.Api\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\guide\wor\Guide.Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\guide\wor\Guide.Api\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\guide\wor\Guide.Api\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\guide\wor\Guide.Api\bin\Debug\net6.0\System.Text.Json.dll
+C:\guide\wor\Guide.Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\guide\wor\Guide.Api\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\guide\wor\Guide.Api\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\guide\wor\Guide.Api\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\guide\wor\Guide.Api\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\guide\wor\Guide.Api\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\guide\wor\Guide.Api\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\guide\wor\Guide.Api\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\guide\wor\Guide.Api\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\guide\wor\Guide.Api\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\guide\wor\Guide.Api\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\guide\wor\Guide.Api\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\guide\wor\Guide.Api\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\guide\wor\Guide.Api\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\guide\wor\Guide.Api\bin\Debug\net6.0\Guide.Domain.dll
+C:\guide\wor\Guide.Api\bin\Debug\net6.0\Guide.Infra.dll
+C:\guide\wor\Guide.Api\bin\Debug\net6.0\Guide.Domain.pdb
+C:\guide\wor\Guide.Api\bin\Debug\net6.0\Guide.Infra.pdb
+C:\guide\wor\Guide.Api\obj\Debug\net6.0\Guide.Api.csproj.AssemblyReference.cache
+C:\guide\wor\Guide.Api\obj\Debug\net6.0\Guide.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\guide\wor\Guide.Api\obj\Debug\net6.0\Guide.Api.AssemblyInfoInputs.cache
+C:\guide\wor\Guide.Api\obj\Debug\net6.0\Guide.Api.AssemblyInfo.cs
+C:\guide\wor\Guide.Api\obj\Debug\net6.0\Guide.Api.csproj.CoreCompileInputs.cache
+C:\guide\wor\Guide.Api\obj\Debug\net6.0\Guide.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\guide\wor\Guide.Api\obj\Debug\net6.0\Guide.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\guide\wor\Guide.Api\obj\Debug\net6.0\staticwebassets\msbuild.Guide.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\guide\wor\Guide.Api\obj\Debug\net6.0\staticwebassets\msbuild.build.Guide.Api.props
+C:\guide\wor\Guide.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Guide.Api.props
+C:\guide\wor\Guide.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Guide.Api.props
+C:\guide\wor\Guide.Api\obj\Debug\net6.0\staticwebassets.pack.json
+C:\guide\wor\Guide.Api\obj\Debug\net6.0\staticwebassets.build.json
+C:\guide\wor\Guide.Api\obj\Debug\net6.0\staticwebassets.development.json
+C:\guide\wor\Guide.Api\obj\Debug\net6.0\scopedcss\bundle\Guide.Api.styles.css
+C:\guide\wor\Guide.Api\obj\Debug\net6.0\Guide.Api.csproj.CopyComplete
+C:\guide\wor\Guide.Api\obj\Debug\net6.0\Guide.Api.dll
+C:\guide\wor\Guide.Api\obj\Debug\net6.0\refint\Guide.Api.dll
+C:\guide\wor\Guide.Api\obj\Debug\net6.0\Guide.Api.pdb
+C:\guide\wor\Guide.Api\obj\Debug\net6.0\Guide.Api.genruntimeconfig.cache
+C:\guide\wor\Guide.Api\obj\Debug\net6.0\ref\Guide.Api.dll
